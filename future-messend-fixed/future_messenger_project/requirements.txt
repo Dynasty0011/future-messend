@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+python-multipart
+passlib[bcrypt]
+pyjwt
+email-validator
+aiofiles
+cryptography
